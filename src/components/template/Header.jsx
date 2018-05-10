@@ -30,7 +30,7 @@ export default class Header extends Component {
                     <Collapse isOpen={this.state.isOpen} navbar>
                         <Nav navbar>
                             <NavItem>
-                                <NavLink href="#" style={{color: 'white'}}>Home</NavLink>
+                                <NavLink href="#/" style={{color: 'white'}}>Home</NavLink>
                             </NavItem>
                             <NavItem>
                                 <NavLink href="#" style={{color: 'white'}}>Comprar</NavLink>
